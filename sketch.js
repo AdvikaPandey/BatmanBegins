@@ -12,10 +12,10 @@ var maxDrops=100;
 var thunderCreatedFrame=0;
 
 function preload(){
-    thunder1 = loadImage("images/thunderbolt/1.png");
-    thunder2 = loadImage("images/thunderbolt/2.png");
-    thunder3 = loadImage("images/thunderbolt/3.png");
-    thunder4 = loadImage("images/thunderbolt/4.png");
+    thunder1 = loadImage("images/1.png");
+    thunder2 = loadImage("images/2.png");
+    thunder3 = loadImage("images/3.png");
+    thunder4 = loadImage("images/4.png");
 }
 
 function setup(){
